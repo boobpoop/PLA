@@ -1,2 +1,2 @@
-# PLA
-realize perception learning argorithnm in python3.6.1
+！[dfsdf](https://github.com/boobpoop/PLA/blob/master/PLA/image/problem.png)
+![fds](https://github.com/boobpoop/PLA/blob/master/PLA/image/resolve.png)
